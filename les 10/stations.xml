@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Station>
+    <Station>
+        <Code>HT</Code>
+        <Type>knooppuntIntercitystation</Type>
+        <Namen>
+            <Kort>Den Bosch</Kort>
+            <Middel>'s-Hertogenbosch</Middel>
+            <Lang>'s-Hertogbosch</Lang>
+        </Namen>
+        <Land>NL</Land>
+        <Synoniemen>
+            <Synoniemen>Hertogenbosch ('s)</Synoniemen>
+            <Synoniemen>Den Bosch</Synoniemen>
+        </Synoniemen>
+    </Station>
+
+    <Station>
+        <Code>ALMO</Code>
+        <Type>stoptreinstation</Type>
+
+    </Station>
